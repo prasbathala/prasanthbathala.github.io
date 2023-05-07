@@ -17,7 +17,11 @@ social: false  # includes social icons at the bottom of the page
 <!--<br>-->
 <span style="font-weight:500; font-size: 25px" >  Hello there! </span>
 
-I am a graduate student at the [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) where I am pursuing the Master of Science in Electrical and Computer Engineering with specialization in Machine Learning and AI. I am also a part of the [Pathology Dynamics Lab](https://sites.gatech.edu/cassie-mitchell-lab/) at Georgia Tech where I am working on Biomedical Information Extraction using NLP techniques under the guidance of [Prof. Cassie Mitchell](https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/). I am also involved in research at [Janus Laboratory] (https://sites.gatech.edu/liaolab/) where I am anlyzing the sentiment of cultural events and developing tools to better visualize the sentiment among the groups under the supervision of [Dr. Hsiao-Wen Liao](https://sites.gatech.edu/liaolab/people/director/). <br>
+I am a graduate student at the [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) where I am pursuing the Master of Science in Electrical and Computer Engineering with specialization in Machine Learning and AI. Additionally, I am currently involved in research at two labs on campus. <br>
+
+At [Pathology Dynamics Lab](https://sites.gatech.edu/cassie-mitchell-lab/) at Georgia Tech where I am working on Biomedical Information Extraction using Natural Language Processing (NLP) techniques under the guidance of [Prof. Cassie Mitchell](https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/). <br>
+
+I am also doing research at the [Janus Laboratory](https://sites.gatech.edu/liaolab/), where I am analyzing the sentiment of cultural events and creating tools to help visualize sentiment among different groups. [Dr. Hsiao-Wen Liao](https://sites.gatech.edu/liaolab/people/director/) is supervising this work. <br>
 
 
 

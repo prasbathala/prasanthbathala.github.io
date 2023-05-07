@@ -24,10 +24,4 @@ At [Pathology Dynamics Lab](https://sites.gatech.edu/cassie-mitchell-lab/) at Ge
 
 I am also doing research at the [Janus Laboratory](https://sites.gatech.edu/liaolab/) with [Dr. Hsiao-Wen Liao](https://sites.gatech.edu/liaolab/people/director/), where I am analyzing the sentiment of cultural events and creating tools to help visualize sentiment among different groups. <br>
 
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to joining Georgia Tech, I worked with [Infosys Limited](https://www.infosys.com/) as a Software Engineer in Retail Consumer Logistics division, where I am responsible for automating the complete work flow of generating CRUD reports for migration of an application from Mainframe systems to SAP. I was also involved in Interface Enhancement team. Before that, I completed my Bachelor of Technology in Electrical and Electronics (Silver Medal) at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), where I was involved in research with [Dr. K. Deepa](https://www.amrita.edu/faculty/k-deepa). <br>

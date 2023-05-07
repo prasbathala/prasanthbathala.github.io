@@ -36,3 +36,6 @@ Prior to joining Georgia Tech, I worked with [Infosys Limited](https://www.infos
 </div>
 <br>
 
+<h4>Research Interests</h4>
+
+

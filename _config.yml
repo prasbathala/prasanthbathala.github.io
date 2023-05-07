@@ -32,13 +32,13 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
-# repo color theme
-#repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-#repo_theme_dark: light           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-#repo_trophies:
-#  enabled: true
-#  theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
-#  theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
+#repo color theme
+repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: light           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_trophies:
+ enabled: true
+ theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
+ theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -46,7 +46,7 @@ highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-them
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-# rss_icon: true
+rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -136,29 +136,29 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
-# giscus:
-#   repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-#   repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
-#   category: Comments             # name of the category under which discussions will be created
-#   category_id: DIC_kwDOA5PmLc4CTBt6
-#   mapping: title                 # identify discussions by post title
-#   strict: 1                      # use strict identification mode
-#   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-#   input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-#   theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
-#   emit_metadata: 0
-#   lang: en
+giscus:
+  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
+  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  category: Comments             # name of the category under which discussions will be created
+  category_id: DIC_kwDOA5PmLc4CTBt6
+  mapping: title                 # identify discussions by post title
+  strict: 1                      # use strict identification mode
+  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
+  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
+  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
+  emit_metadata: 0
+  lang: en
 
 # Disqus comments (DEPRECATED)
-#disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-# external_sources:
-#   - name: medium.com
-#     rss_url: https://medium.com/@al-folio/feed
+external_sources:
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -170,9 +170,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  # projects:
-  #   output: true
-  #   permalink: /projects/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder

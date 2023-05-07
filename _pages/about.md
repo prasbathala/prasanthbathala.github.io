@@ -25,3 +25,14 @@ At [Pathology Dynamics Lab](https://sites.gatech.edu/cassie-mitchell-lab/) at Ge
 I am also doing research at the [Janus Laboratory](https://sites.gatech.edu/liaolab/) with [Dr. Hsiao-Wen Liao](https://sites.gatech.edu/liaolab/people/director/), where I am analyzing the sentiment of cultural events and creating tools to help visualize sentiment among different groups. <br>
 
 Prior to joining Georgia Tech, I worked with [Infosys Limited](https://www.infosys.com/) as a Software Engineer in Retail Consumer Logistics division, where I am responsible for automating the complete work flow of generating CRUD reports for migration of an application from Mainframe systems to SAP. I was also involved in Interface Enhancement team. Before that, I completed my Bachelor of Technology in Electrical and Electronics (Silver Medal) at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), where I was involved in research with [Dr. K. Deepa](https://www.amrita.edu/faculty/k-deepa). <br>
+
+
+<h4>Updates</h4>
+<div class = "news">
+  {% assign news = site.news %}
+  {% for item in news %}
+  {{ item.content }}
+  {% endfor %}
+</div>
+<br>
+

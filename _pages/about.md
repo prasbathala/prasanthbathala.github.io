@@ -4,6 +4,7 @@ title: about
 permalink: /
 
 profile:
+
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
@@ -21,7 +22,7 @@ I am a graduate student at the [Georgia Institute of Technology (Georgia Tech)](
 
 At [Pathology Dynamics Lab](https://sites.gatech.edu/cassie-mitchell-lab/) at Georgia Tech where I am working on Biomedical Information Extraction using Natural Language Processing (NLP) techniques under the guidance of [Prof. Cassie Mitchell](https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/). <br>
 
-I am also doing research at the [Janus Laboratory](https://sites.gatech.edu/liaolab/), where I am analyzing the sentiment of cultural events and creating tools to help visualize sentiment among different groups. [Dr. Hsiao-Wen Liao](https://sites.gatech.edu/liaolab/people/director/) is supervising this work. <br>
+I am also doing research at the [Janus Laboratory](https://sites.gatech.edu/liaolab/) with [Dr. Hsiao-Wen Liao](https://sites.gatech.edu/liaolab/people/director/), where I am analyzing the sentiment of cultural events and creating tools to help visualize sentiment among different groups. <br>
 
 
 

@@ -16,3 +16,5 @@ navpos: 1
     <img src="{{ 'pdf.svg' | prepend: '/assets/' | relative_url }}" alt = "Resume" title="Download Resume" height="30px"> &nbsp;
     <span style="color:blue; font-size:1.25em"> Resume </span>
 </a>
+
+<iframe src="{{ 'Prasanth_Resume.pdf' | prepend: '/assets/pdf/' | relative_url }}" width="100%" height="600px"></iframe>

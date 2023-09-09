@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://prasanthbathala.com/sitemap.xml
+Sitemap: https://prasbathala.github.io/sitemap.xml
